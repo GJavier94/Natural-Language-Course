@@ -1,0 +1,3 @@
+spoon[with,metallic]
+eat[spoon[with]]
+eat[spoon[metallic]]

@@ -1,0 +1,8 @@
+have[news,effect]
+effect[little,markets]
+markets[on,financial]
+have[news[Economic]]
+have[effect[little]]
+have[effect[markets]]
+effect[markets[on]]
+effect[markets[financial]]

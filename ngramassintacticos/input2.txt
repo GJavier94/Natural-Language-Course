@@ -1,0 +1,4 @@
+root (ROOT-0, eat-1)
+case (spoon-4, with-2)
+amod (spoon-4, metallic-3)
+obl (eat-1, spoon-4)

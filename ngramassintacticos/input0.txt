@@ -1,0 +1,8 @@
+amod (news-2, Economic-1)
+nsubj (have-3, news-2)
+root (ROOT-0, have-3)
+amod (effect-5, little-4)
+obj (have-3, effect-5)
+case (markets-8, on-6)
+amod (markets-8, financial-7)
+nmod (effect-5, markets-8)
